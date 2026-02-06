@@ -1,1 +1,5 @@
 Trying another file to do.
+
+I'm editing two files and I'm going to stage 1 and commit it, then see if the other file that wasn't staged remains locally and not put on github.
+
+This file should stay local first time push.
